@@ -1,0 +1,235 @@
+                        @import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@200;300;400;500;600&display=swap');
+                        #navbar {
+                            display: flex;
+                            justify-content: space-evenly;
+                            height: 70px;
+                        }
+                        
+                        .nav-item {
+                            margin-top: 20px;
+                            font-weight: 700;
+                            color: black;
+                        }
+                        
+                        .logo {
+                            margin-top: 15px;
+                            font-weight: 900;
+                            color: #f3f4f6;
+                            font-size: 25px;
+                            color: #233266;
+                        }
+                        
+                        .logo-color {
+                            color: #54c1f0;
+                        }
+                        
+                        .nav-item a {
+                            font-weight: 500;
+                            background-color: #f97316;
+                            width: 150px;
+                            color: black;
+                            border: none;
+                            border-radius: 20px;
+                        }
+                        
+                        #nav-color {
+                            background-color: #ffffff;
+                        }
+                        
+                        .fa {}
+                        
+                        .intro {
+                            margin-top: 50px;
+                            margin-left: 235px;
+                        }
+                        
+                        .intro-color {
+                            /* background-color: #b463d4;*/
+                            background-color: #00baf2;
+                            background-color: #0a0a0a;
+                            height: 490px;
+                            margin-top: 10px;
+                            padding-top: 40px;
+                            margin-left: 2px;
+                            margin-right: 2px;
+                        }
+                        
+                        .intro button {
+                            background-color: #f97316;
+                            border: none;
+                            border-radius: 20px;
+                            width: 160px;
+                            height: 40px;
+                            margin-top: 50px;
+                            font-weight: 600;
+                            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        }
+                        
+                        .intro-color img {
+                            margin-left: 1335px;
+                            margin-top: -350px;
+                            display: block;
+                            border: none;
+                            border-radius: 500px 500px 500px 500px;
+                            border-color: black;
+                            background-color: #0a0a0a;
+                        }
+                        
+                        .img-color {}
+                        
+                        .typing {
+                            color: #f97316;
+                        }
+                        
+                        .about {
+                            margin-top: 100px;
+                            margin-left: 2px;
+                            margin-right: 2px;
+                        }
+                        
+                        .about h1 {
+                            font-size: 42px;
+                            text-align: center;
+                            color: #000000;
+                            font-weight: bold;
+                            font-style: italic;
+                        }
+                        
+                        .about-color {
+                            margin-top: 2px;
+                            background-color: #f3f4f6;
+                            margin-left: 2px;
+                            margin-right: 2px;
+                            height: 440px;
+                        }
+                        
+                        .about-flex h1 {
+                            text-align: center;
+                            margin-top: 40px;
+                            margin-left: 1000px;
+                            font-size: 40px;
+                            font-weight: bold;
+                        }
+                        
+                        .about-flex p {
+                            text-align: center;
+                            margin-top: -200;
+                            margin-left: 975px;
+                            display: block;
+                            font-weight: 500;
+                        }
+                        
+                        .about-flex button {
+                            text-align: center;
+                            margin-top: 10px;
+                            margin-left: 1350px;
+                            background-color: #f97316;
+                            border: none;
+                            border-radius: 20px;
+                            width: 160px;
+                            height: 40px;
+                            font-weight: 700;
+                        }
+                        
+                        .skills {
+                            background-color: #ffffff;
+                            height: 450px;
+                            margin-left: 2px;
+                            margin-right: 2px;
+                        }
+                        
+                        .skills h1 {
+                            margin-top: 45px;
+                            margin-left: 224px;
+                            /* text-align: center; */
+                        }
+                        
+                        .skillchange {
+                            display: flex;
+                            justify-content: space-evenly;
+                            font-weight: 700;
+                            margin-top: 80px;
+                        }
+                        
+                        .service {
+                            height: 600px;
+                            background-color: #ffffff;
+                            background-color: #f3f4f6;
+                            display: flex;
+                            margin-left: 2px;
+                            margin-right: 2px;
+                        }
+                        
+                        .service-headline h1 {
+                            margin-top: 45px;
+                            margin-left: 245px;
+                            font-weight: 900;
+                        }
+                        
+                        .myServices {
+                            width: 335px;
+                            height: 390px;
+                            box-shadow: 20px 14px 25px #0000008c;
+                            border-radius: 10px;
+                            position: relative;
+                            overflow: hidden;
+                            /* justify-content: space-around; */
+                            /* align-items: center; */
+                            margin-left: 80px;
+                            margin-top: 150px;
+                        }
+                        
+                        .myServices h2 {
+                            font-size: 20px;
+                            margin-top: 28px;
+                            /* margin-right: 60px */
+                            text-align: center;
+                            font-weight: bold;
+                        }
+                        
+                        .myServices p {
+                            text-align: center;
+                            padding-top: 20px;
+                            font-weight: 470;
+                            font-family: 'Times New Roman', Times, serif
+                        }
+                        
+                        .contact {
+                            height: 200px;
+                        }
+                        
+                        .contact h2 {
+                            margin-top: 50px;
+                        }
+                        
+                        .contact p {
+                            text-align: center;
+                            font-family: 'Courier New', Courier, monospace;
+                            font-size: 16px;
+                            margin-top: 40px;
+                        }
+                        
+                        .contact button {
+                            text-align: center;
+                            /* margin-top: 10px; */
+                            margin-left: 870px;
+                            background-color: #f97316;
+                            border: none;
+                            border-radius: 20px;
+                            width: 160px;
+                            height: 40px;
+                            font-weight: 700;
+                        }
+                        
+                        footer {
+                            position: relative;
+                            background-color: #000000;
+                            height: 60px;
+                            margin: 0px;
+                        }
+                        
+                        .footh6 h6 {
+                            text-align: center;
+                            color: #ffffff;
+                            padding-top: 20px;
+                        }
